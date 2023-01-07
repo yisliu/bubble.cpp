@@ -7,7 +7,7 @@ example input:
 4 9 2 4 1
 
 example output:
-1 2 4 4 9
+1 2 4 4 9 
 */
 
 void bubble2(int arr[], int size){
